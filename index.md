@@ -13,7 +13,7 @@ My name is Noah Teshima. I am a fourth year mathematics, computer science major 
 > "There is no trash cannot. There is only trash can!" - Some raccoon in Sixth, probably.
 
 ## Coursework
-From my first `print('Hello world')` to upper division mathematics and conputer science, below is a condensed list of the meaningful coursework that I ~~have done~~ completed (or am currently in the process of completing) while at UCSD:
+From my first `print('Hello world')` to upper division mathematics and computer science, below is a condensed list of the meaningful coursework that I ~~have done~~ completed (or am currently in the process of completing) while at UCSD:
 - MATH109 (Mathematical Reasoning)
 - MATH102 (Applied Linear Algebra)
 - MATH170A (Numerical Analysis)
